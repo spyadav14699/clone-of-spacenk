@@ -32,10 +32,10 @@ It is used to add logical functionalities to the web pages like the on Click fun
 
 We used local-storage as a database for storing users’ data, products details, and cart details.
 
-# <span style="color:red"> Experience of team: </span>
+# <span style="color:red"> Experience of project: </span>
 
-Let us share our experience,<br>
-While working on this project, we have explored many things, first we got to know each other in our team, established proper channel for communication, able to add lot of skill set which we was not familiar with and explored some depth regarding the content, properties etc. I got clarity on those concept like DOM manipulation, Local Storage, slideshow, advance DOM, dropdown concept some external libraries for inserting icons on the buttons. while working in the team we always get lots of things extra on which we have not worked on earlier.We got the learning such showing flash sale timer , payment OTP ,web portal for payment concept, many customized sorting like sort by men's /women's collection, sort by price, filter by size, color etc.
+Let us share my experience,<br>
+It was a Indivisual project While working on this project, I have explored many things, able to add lot of skill set which we was not familiar with and explored some depth regarding the content, properties etc. I got clarity on those concept like DOM manipulation, Local Storage, slideshow, advance DOM, dropdown concept some external libraries for inserting icons on the buttons. We got the learning such showing flash sale timer , payment OTP ,web portal for payment concept, many customized sorting like sort by men's /women's collection, sort by price, filter by size, color etc.
 
 
 
@@ -43,13 +43,13 @@ While working on this project, we have explored many things, first we got to kno
 
 # <span style="color:red">Challenges: </span>
 We have faced few challenges during the while working on project we dealt with them , sometime it take lots of time but on the other hand we got some learning from that. some of the challenges are-<br>
-As we are working on a team, we have to compile our data into our project sometime it messed , the problem was like some are data are mismatch or jumped to other section ,  so resolve this we have outlined each section with certain height and width and prepared layout first.<br>
+I have to compile our data into our project sometime it messed, the problem was like some are data are mismatch or jumped to other section,  so resolve this we have outlined each section with certain height and width and prepared layout first.<br>
 Functionality of each button on click and provide link over there . We have done this in precise manner. so that every thing will set up in a certain direction.<br>
 Sorting data as per functionality.
 
 
 # <span style="color:red">Conclusion: </span>
-We are very thankful for the support of my teammates and instructor for the completion of project in due time. We will looks forward to add some feature and functionality which we left in this project for future expensions.
+I am very thankful to my instructor for the completion of project in due time. l will looks forward to add some feature and functionality which we left in this project for future expensions.
 
 
 # <span style="color:red"> Thank Your For Reading </span>
