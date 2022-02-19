@@ -1,9 +1,9 @@
-# <span style="color:red"> Cloning of [SHEIN](US.SHEIN.COM) WEBSITE </span>
+# <span style="color:red"> Cloning of  [Spacenk](https://www.spacenk.com/uk/home) WEBSITE </span>
 
 # <span style="color:red"> Welcome Here!</span>
 
 Hello Readers,<br>
-Firstly we are welcoming you to the our First group project in our 1st Construct Week of Masai School. <br>Here we are going to share our journey and our learning experiences In this First Construct week project.<br> This Project is our First construct week project an we give a name to our project called SHEIN Preoject. <br> I hope you will enjoy the reading….
+Firstly we are welcoming you to the our First group project in our 1st Construct Week of Masai School. <br>Here we are going to share our journey and our learning experiences In this First Construct week project.<br> This Project is our First construct week project an we give a name to our project called Spacenk Preoject. <br> I hope you will enjoy the reading….
 
 # <span style="color:red"> About Website: </span>
 
